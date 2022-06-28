@@ -1,0 +1,8 @@
+Nueces 320
+Almendras 480
+Avellanas 540
+Pasas 180.5
+Castanias 360
+Pistachos 600
+Fideos 180.5
+Tomates 120
